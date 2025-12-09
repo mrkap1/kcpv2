@@ -33,3 +33,4 @@ Installation is simple!
 ## 📞 Support & Feedback
 
 If you have any issues or feedback, please feel free to open an issue on this GitHub repository.
+➡️ **Please also join our Discord community for updates and support:** [https://discord.gg/mUjEUE4xtP](https://discord.gg/mUjEUE4xtP)
