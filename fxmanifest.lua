@@ -1,7 +1,13 @@
--- Generated with DurtyClothTool
+fx_version 'adamant'
+game 'gta5'
+description 'Kaps Replacment Cars Pack 1'
+author 'Kap'
+version '1.0.1'
+lua54 'yes'
 
-fx_version 'cerulean'
-game { 'gta5' }
+server_scripts {
+    'server.lua',
+}
 
 files {
   'mp_m_freemode_01_mp_m_kcpv2.meta',
