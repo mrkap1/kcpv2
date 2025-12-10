@@ -1,9 +1,10 @@
-fx_version 'adamant'
-game 'gta5'
-description 'Kaps Replacment Cars Pack 1'
 author 'Kap'
-version '1.0.1'
+description 'Kap Custom Clothing Pack V2'
+version '1.0.0'
 lua54 'yes'
+fx_version 'cerulean'
+game { 'gta5' }
+
 
 server_scripts {
     'server.lua',
