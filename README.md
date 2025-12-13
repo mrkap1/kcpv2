@@ -16,6 +16,8 @@ The Kaps Clothing Pack is a continuing project spread across multiple versions. 
 * **V2** (This Repository - Continuation Pack)
 * **V3** (Continuation Pack)
 * **V4** (Continuation Pack)
+* **V5** (Continuation Pack)
+* **V6** (Continuation Pack)
 
 Please check the main KCP developer page or the relevant links to locate and download the V1, V3, and V4 packages.
 
