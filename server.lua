@@ -1,6 +1,6 @@
 local RESOURCE_NAME = GetCurrentResourceName()
 local LOCAL_VERSION = GetResourceMetadata(RESOURCE_NAME, 'version') -- Get version from fxmanifest.lua
-local REMOTE_VERSION_URL = 'https://github.com/MrKap1/KCPv2/blob/main/latest_version.txt' -- e.g., 'https://raw.githubusercontent.com/your-username/your-repo/main/latest_version.txt'
+local REMOTE_VERSION_URL = 'https://raw.githubusercontent.com/MrKap1/KCPv2/refs/heads/main/latest_version.txt' -- e.g., 'https://raw.githubusercontent.com/your-username/your-repo/main/latest_version.txt'
 
 function CheckForUpdates()
     PerformHttpRequest(REMOTE_VERSION_URL, function(statusCode, responseText, headers)
