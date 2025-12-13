@@ -1,6 +1,6 @@
 author 'Kap'
 description 'Kap Custom Clothing Pack V2'
-version '1.0.0'
+version '1.0.5'
 lua54 'yes'
 fx_version 'cerulean'
 game { 'gta5' }
